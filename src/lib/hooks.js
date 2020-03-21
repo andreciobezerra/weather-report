@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 
 // eslint-disable-next-line no-undef
 const apiKey = process.env.REACT_APP_API_KEY;
-const endPoint = 'http://api.openweathermap.org/data/2.5/weather'
+const endPoint = 'https://api.openweathermap.org/data/2.5/weather'
 
 const useFetch = (params) => {
   const [data, setData] = useState([]);
