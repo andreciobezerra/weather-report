@@ -1,14 +1,18 @@
 {
-  "name": "weather",
+  "homepage": "http://andreciobezerra.github.io/weather-report",
+  "name": "weather-report",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "BROWSER=chromium-browser BROWSER_ARGS=--incognito react-scripts start",
-    "test": "",
+    "test": "reactscripts test",
     "build": "react-scripts build"
   },
   "author": "Andrécio Bezerra",
+  "repository": "https://github.com/andreciobezerra/weather-report",
   "license": "ISC",
   "dependencies": {
     "react": "^16.13.0",
@@ -30,6 +34,7 @@
   "devDependencies": {
     "dotenv": "^8.2.0",
     "eslint": "^6.8.0",
-    "eslint-plugin-react": "^7.19.0"
+    "eslint-plugin-react": "^7.19.0",
+    "gh-pages": "^2.2.0"
   }
 }
