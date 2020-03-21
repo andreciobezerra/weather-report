@@ -2,7 +2,7 @@
 
 ## A weather service
 
-This project has the learning purpose of that some technologies, wich are seen below. The main objective are the learning of React(with Hooks), API consume and deploy to gh-pages, which I used it for first time here. The tech stack used for this project was:
+This project has the learning purpose of that some technologies, which are seen below. The main objective are the learning of React(with Hooks), API consume and deploy to gh-pages, which I used it for first time here. The tech stack used for this project was:
 
 * HTML 5
 * CSS 3
