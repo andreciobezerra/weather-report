@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/weather-report/static/js/main.fab8c250.chunk.js",
-    "main.js.map": "/weather-report/static/js/main.fab8c250.chunk.js.map",
+    "main.js": "/weather-report/static/js/main.05d5f132.chunk.js",
+    "main.js.map": "/weather-report/static/js/main.05d5f132.chunk.js.map",
     "runtime-main.js": "/weather-report/static/js/runtime-main.d59a9cbc.js",
     "runtime-main.js.map": "/weather-report/static/js/runtime-main.d59a9cbc.js.map",
     "static/js/2.3388ebab.chunk.js": "/weather-report/static/js/2.3388ebab.chunk.js",
     "static/js/2.3388ebab.chunk.js.map": "/weather-report/static/js/2.3388ebab.chunk.js.map",
     "index.html": "/weather-report/index.html",
-    "precache-manifest.d9877981d426fb340da1ff6f53233adc.js": "/weather-report/precache-manifest.d9877981d426fb340da1ff6f53233adc.js",
+    "precache-manifest.7f308ca71d8fbe0f42adeb8ddf121c0e.js": "/weather-report/precache-manifest.7f308ca71d8fbe0f42adeb8ddf121c0e.js",
     "service-worker.js": "/weather-report/service-worker.js",
     "static/js/2.3388ebab.chunk.js.LICENSE.txt": "/weather-report/static/js/2.3388ebab.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d59a9cbc.js",
     "static/js/2.3388ebab.chunk.js",
-    "static/js/main.fab8c250.chunk.js"
+    "static/js/main.05d5f132.chunk.js"
   ]
 }
